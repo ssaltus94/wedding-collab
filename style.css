@@ -1,0 +1,96 @@
+body{
+    background: whitesmoke;
+    margin: 0;
+}
+.nav-bar{
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    padding-left: 8%;
+}
+.nav-link{
+    list-style: none;
+    display: inline;
+    padding: 6%;
+}
+.a-nav{
+    text-decoration: none;
+    color: white;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 20px;
+}
+.nav-one{
+    width: 30%;
+}
+.nav-two{
+    width: 40%;
+}
+.header{
+    background-image: url(https://res.cloudinary.com/dbmagka0m/image/upload/v1623152749/slider-image_3_avtobk.jpg);
+    background-repeat: no-repeat;
+    background-origin: inherit;
+    background-size: contain;
+    height: 130%;
+} 
+.header-start{
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.header-names{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color: white;
+    font-size: 50px;
+    line-height: 0.3;
+    letter-spacing: 9px;
+    font-weight: 500;
+    
+}
+.header-text{
+    font-family: 'EB Garamond', serif;
+    font-size: 22px;
+    color: white;
+    line-height: 0.9;
+}
+.header-end{
+    text-align: center;
+}
+.end-text{
+    font-family: barlow semi Condensed, sans-serif;
+    color:rgb(165, 137, 61);
+
+}
+.end-img{
+    width: 5%;
+}
+.timeline-container{
+    display: flex;
+}
+.guest{
+    display: flex;
+}
+.countdown{
+    display: flex;
+}
+.countdown-timer{
+    display: flex;
+}
+.location{
+    display: flex;
+}
+.bridesmaids{
+    display: flex;
+}
+.bridesmaids-content{
+    display: flex;
+}
+.groomsman-content{
+    display: flex;
+}
+.remarks{
+    display: flex;
+}
+.footer{
+    display: flex;
+}
